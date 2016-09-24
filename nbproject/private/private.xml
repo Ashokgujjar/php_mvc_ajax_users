@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/index.php</file>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/views/users/listuser.php</file>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/views/users/adduser.php</file>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/routes.php</file>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/controllers/user_controller.php</file>
-            <file>file:/mnt/1CCC8F9FCC8F71B6/current_projects/php_mvc_ajax_users/models/user_model.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
